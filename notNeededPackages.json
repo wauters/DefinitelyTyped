@@ -202,6 +202,12 @@
             "typingsPackageName": "sugar",
             "sourceRepoURL": "https://github.com/andrewplummer/Sugar",
             "asOfVersion": "2.0.2"
+        },
+        {
+            "libraryName": "dva",
+            "typingsPackageName": "dva",
+            "sourceRepoURL": "https://github.com/dvajs/dva",
+            "asOfVersion": "1.1.0"
         }
     ]
 }
